@@ -23,10 +23,9 @@
  - NEW OVH-BEAM METHODS!
  - Hi all, there are fools scam tool github for 20usd
 - Image scammer:
-https://i.ibb.co/R0NDXnc/photo-2022-05-23-03-57-37.jpg
- 
+https://telegra.ph/file/2a291fd904af8ea8dd39e.jpg
 ## Screenshot
-![lk](https://i.ibb.co/LNkqyPR/bandicam-2022-04-12-22-11-34-101.jpg)
+![lk](https://telegra.ph/file/2a291fd904af8ea8dd39e.jpg)
 
 # Tree
 * [Read now pls](#README)
@@ -42,10 +41,7 @@ One star = continuously updating multiple methods
 
 # Info
 - [x] Open Source
-- [x] Powerful
-- [x] Simple
-- [x] Methods for Layer 4 and 7
-- [x] Bypass (Cloudflare, OVH, NFO,...)  
+- [x] Hack FB
 
 
 # Setup
@@ -56,10 +52,13 @@ $pkg install git
 $pip2 install mechanize && pip3 install mechanize
 $pip2 install requests && pip3 install requests
 $pip2 install bs4 && pip3 install bs4
+$pip2 install stdiomask && pip3 install stdiomask
 $git clone https://github.com/ghostxmods/freetoolsfb.git
 $cd freetoolsfb
 $python3 freetoolsfb.py
 ```
+# COOKIES
+- 
 
 # TOS:
 ```sh
